@@ -1,0 +1,4 @@
+[core]
+    remote = datas
+['remote "datas"']
+    url = /home/acha21/codes/dvc/dvc-repo
